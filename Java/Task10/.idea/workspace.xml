@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16f1a7e6-f397-4377-bb01-437515ff6e52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/DefconVika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pract1/src/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects2/Project2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project6" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project7" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project7" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Valera1994"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Valera1994/JavaProjects.git",
+    "accountId": "d372ab74-9356-4a9c-985d-060c1d190787"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="33NSor6W3VOrUE3JyPFtPyRdGEZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/anatolyi/JavaProjects/Projects4"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f1a7e6-f397-4377-bb01-437515ff6e52" name="Changes" comment="" />
+      <created>1759526647751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759526647751</updated>
+    </task>
+    <servers />
+  </component>
+</project>
