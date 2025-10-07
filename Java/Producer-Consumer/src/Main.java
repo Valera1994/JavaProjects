@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-public class ProducerConsumer {
+public class Main {
     private static BlockingQueue<Integer> queue = new ArrayBlockingQueue<>(10);
     public static void main(String[] args) throws InterruptedException {
         Thread thread1 = new Thread(new Runnable() {
@@ -36,7 +36,6 @@ public class ProducerConsumer {
 
     private static void produce() throws InterruptedException {
         Random random = new Random();
-
         while (true){
             queue.put(random.nextInt(10 ));
         }
